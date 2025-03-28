@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+seaborn
+streamlit
+textblob
+urlextract
+wordcloud
+
