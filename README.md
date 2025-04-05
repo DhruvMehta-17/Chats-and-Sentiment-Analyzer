@@ -60,19 +60,19 @@ This project processes chat data (like WhatsApp/Telegram exports), cleans and st
 * Each message is predicted and labeled with a sentiment tag
 
 ## How To Run The Proect
-1. Clone the repository
+1. Clone the repository:- 
 git clone https://github.com/your-username/your-repo-name.git
 
-2. Navigate to the project directory
+2. Navigate to the project directory:- 
 cd your-repo-name
 
-3. Install dependencies
-pip install -r requirements.txt
+3. Install dependencies:- 
+pip install -r requirements.txt:- 
 
-4. Run the Flask app
+4. Run the Flask app:- 
 python app.py
 
-5. Open in your browser
+5. Open in your browser:- 
 http://localhost:5000
 
 ## Sample Chat Support
