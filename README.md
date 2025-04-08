@@ -1,6 +1,15 @@
 # Chats-and-Sentiment-Analyzer
 A web-based tool built using Python, Machine Learning, and Flask to analyze personal and group chats. The application provides insightful statistics and sentiment analysis of conversations, helping users understand engagement levels and emotional tones in their messages.
 
+**Tech Stack:** Python, Flask, HTML, CSS, JavaScript, Scikit-learn, Pandas, NLTK
+
+## Dataset & Input Format
+The application accepts exported chat files from platforms like WhatsApp.
+
+Input should be in .txt format (default WhatsApp export style).
+
+The tool parses and structures the chat data for further analysis.
+
 ## Project Overview
 This project processes chat data (like WhatsApp/Telegram exports), cleans and structures it, then uses machine learning to perform sentiment classification. It offers visual insights such as:
 
